@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1589234013 source:d:\technical university - stuff\random\spr\spr_upr8\testtcpclient\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<errno.h>
+	<winsock2.h>
+
+1590327987 source:d:\technical university - stuff\random\spr\spr_upr8\tcp-measurements\testtcpclient\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<errno.h>
+	<winsock2.h>
+
+1590327987 source:d:\technical university - stuff\random\spr\kursov\windows\tcpclient\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<errno.h>
+	<winsock2.h>
+
+1590483977 source:d:\technical university - stuff\random\spr\kursov\client\tcpclient\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<errno.h>
+	<winsock2.h>
+
